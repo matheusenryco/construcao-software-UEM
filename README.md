@@ -2,4 +2,7 @@
 
 ## Exemplo de primeira alteração
 Gustavo Amaro Niehues RA138894
-Miguel Silva Rampazzo RA 140768
+
+Miguel Silva Rampazzo RA140768
+
+Matheus Enryco RA140503
